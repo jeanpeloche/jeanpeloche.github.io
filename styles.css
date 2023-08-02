@@ -1,0 +1,66 @@
+body {
+    background-color: #666f88;
+}
+
+.titulo h1, h4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 5px;
+ }
+
+.contactos {
+    background-color: #788199;
+    color: white;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.contactos h3{
+    justify-content: center;
+    display: flex;
+}
+
+.redes{
+    justify-content: center;
+    display: flex;
+}
+
+h2{
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+.yo {
+    text-align: center;
+    color: white;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.galeria{
+    background-color: black;
+    border: solid rgb(0, 0, 0) 3px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.cont {
+    background-color: #788199;
+    color: white;
+    margin: 2px 0%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    padding: 2px;
+}
